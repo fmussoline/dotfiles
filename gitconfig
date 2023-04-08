@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fmussoline@gmail.com
+	name = Fernando Mussoline
